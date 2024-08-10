@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshulp544
-- 👀 I’m interested in Investing & Creating Content 
+- 👀 I’m interested in Investing & Data Visualization  
 - 🌱 I’m currently learning Excel & PowerBI
 - 💞️ I’m looking to collaborate on I'm eager to collaborate on projects related to financial analysis, data analytics, and content creation. Let's create something amazing together!
 - 📫 How to reach me You can connect via LinkedIn or email at anshulp544@gmail.com
